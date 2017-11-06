@@ -1,0 +1,2 @@
+ The knight rushes at the guard and stab him in the back. However, he was not quick enough to silence the Orc as he lets out a eardrum bursting yell. The knight drops to his knees as a swarm of Orcs arrive. The knight fight with honor take out hundereds of Orcs. Sadly this is where the Knights tale ends as he is lays his blade down and is captured. Dying in glory.
+ The angel mercy appears and offers the Knight a second chance to finish the war. Will you [retry](class.md)
