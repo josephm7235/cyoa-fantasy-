@@ -1,12 +1,3 @@
 # Guard 
 ---
-You now approach a Orc guard - he is the only thing standing in the way of your escape. 
-Do you either 
-
-1. Use your advanced fighting skills to put an end to him quickly and escape 
-[Strike him](death.md)
-2.  Hide in a near by barrel to walk to freedom   
-[Hide](escapesm.md)
-
-
-
+You now approach a Orc guard this fiend is the only thing standing in the way of your escape. Will you choose to [strike](knightstrike.md) the Orc where is stands or prehaps you'll use the box near you and [sneak](box.md)
