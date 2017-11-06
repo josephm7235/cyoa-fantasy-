@@ -1,3 +1,3 @@
 You've awoken in a Orc camp.  
-You are tied up however the rope is loose you're able cut through. Now you must plan your next steps for you are 
+You are unaware of how you arrived.But trying to remember is no use to you now. You must plan your next steps to escape for you are 
  [the cunning mage ](escapesm.md). Or prehaps you are the [lone knight](knightescape.md)
