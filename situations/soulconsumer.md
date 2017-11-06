@@ -1,0 +1,2 @@
+The mage mutters the spell the cursed spell soulconsumer as Hoglik charges he suddenly comes to a halt. Hoglik struggles to move as he is drops to the ground looking up at the mage. In horror he lets out a faint grunt as a demonic figure emerges from the Mage. His soul is drained from his body as the Mages eyes glowing a demonic red stare at him. Hoglik is dead. The mage closes her eyes and walks away from the camp. 
+[Return to the past](class.md)
