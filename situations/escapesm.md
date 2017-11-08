@@ -1,1 +1,1 @@
-The night is dark and the Orcs has fallen alseep. You have enough energy to cast a spell of [invisibility](invisibility,md) or prehaps you'll [mind control](mindcontrol.md) the orc guarding you
+The night is dark and full of terrors but the Orcs has fallen alseep. You have enough energy to cast a spell of [invisibility](invisibility,md) or prehaps you'll [mind control](mindcontrol.md) the orc guarding you. 
