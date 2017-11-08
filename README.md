@@ -8,5 +8,5 @@ Click [here](situations/class.md) to begin your escape
 
 Click [here](https://docs.google.com/drawings/d/1j6oaS5cjMB0gh7PL-zbKqi_zv6deD12XIXSDlq6my8M/edit) to view our plan for the CYOA
 
-Made by both Josiah E. and Joseph M. 
+Made by both [Josiah E.](https://github.com/josiahe2793) and [Joseph M.](https://github.com/josephm7235) 
 
