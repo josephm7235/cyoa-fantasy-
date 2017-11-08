@@ -1,5 +1,5 @@
 # Dash 
 ---
- You make a full on sprint for the main gate. Orc archers in the atwch tower above spots you. They fire a volley of arrows at you. You hear the arrows wiz past your head until finally your hit. Unable to move, you slowly bleed out. 
+ You make a full onsprint for the main gate. Orc archers in the Watch tower above spot you. They fire a five hundered and one flaming arrows at you. You closes your eyes as you hear the arrows wiz past your head. One by one you yell in pain as the arrows pierce your body. Unable to move you lay on the ground slowly bleeding out with everything fading. 
  
- The angel Mercy however offers you a second chance, will you [restart](class.md) the adventure?
+ However, the angel Mercy appears offers you a second chance, will you [restart](class.md) the adventure?

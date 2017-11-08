@@ -1,1 +1,3 @@
-You aim your staff to the ground and yell "ROCKET JUMP" a large burst of energy is released from your staff. You are sent flying past the gates the archers attempt to shoot you down but the blast wave is too powerful and sends the arrows back at them. You land the jump and make your way back to your chamber.
+You aim your staff to the ground and yell "ROCKET JUMP" a large burst of energy is released from your staff. You are sent flying past the gates the archers attempt to shoot you down but the blast wave is too powerful and sends the arrows back at them. You land the jump and make your way back to your chamber. With your mana now restored you activate nuclear winter and demolish the Orc camp. The end.
+
+[Restart](class.md) the adventure?
